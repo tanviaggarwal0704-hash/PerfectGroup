@@ -75,7 +75,7 @@ const Footer = () => {
                     +91-11-47093392
                   </a>
                   <a href="tel:+918882473038" className="text-gray-600 hover:text-brand-orange transition-colors text-sm">
-                    +91-8882473038
+                    +91-9310463776
                   </a>
                 </div>
               </li>
@@ -124,10 +124,10 @@ const Footer = () => {
             </a>{' '}
             (
             <a
-              href="tel:+918930005190"
+              href="tel:+919310463776"
               className="font-bold"
             >
-              +91 8930005190
+              +91 9310463776
             </a>
             )
           </p>
