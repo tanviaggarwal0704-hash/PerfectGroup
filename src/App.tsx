@@ -5,7 +5,7 @@ import Products from './pages/Products';
 import ContactPage from './pages/ContactPage';
 import AboutUs from './pages/AboutUs';
 
-const WHATSAPP_URL = 'https://wa.me/918882473038';
+const WHATSAPP_URL = 'https://wa.me/919310463776';
 
 const AppRoutes = () => {
   const location = useLocation();
