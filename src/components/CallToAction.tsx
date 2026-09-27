@@ -14,7 +14,7 @@ const CallToAction = () => {
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
           <a
-            href="https://wa.me/918882473038"
+            href="https://wa.me/919310463776"
             target="_blank"
             rel="noopener noreferrer"
           >
